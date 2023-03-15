@@ -10,5 +10,6 @@
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
   },
+  "organizationName": "tenserebel",
   "projectName": "TrackDash---Using-Atri"
 }

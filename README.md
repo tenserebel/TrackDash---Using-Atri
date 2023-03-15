@@ -10,6 +10,7 @@ You can add 5 tasks at once and close them which would strikethrough the text, a
 
 ## Mobile View
 
-![atri-1](https://user-images.githubusercontent.com/63343297/225428298-1b83d202-711e-46d9-aecd-afa117de5714.jpg)
+<img src="https://user-images.githubusercontent.com/63343297/225428298-1b83d202-711e-46d9-aecd-afa117de5714.jpg"  width="600" height="700">
+
 
 ![atri-2](https://user-images.githubusercontent.com/63343297/225428337-3f4d0fd6-0b71-42c0-96ba-4cf163cb52b8.jpg)

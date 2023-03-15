@@ -1,0 +1,15 @@
+{
+  "Input": 2,
+  "BarChart": 1,
+  "Accordion": 1,
+  "TextBox": 10,
+  "Div": 8,
+  "Image": 1,
+  "Button": 4,
+  "Checkbox": 5,
+  "VerticalMenu": 1,
+  "Flex": 3,
+  "Radio": 7,
+  "Step": 1,
+  "UnorderedList": 2
+}

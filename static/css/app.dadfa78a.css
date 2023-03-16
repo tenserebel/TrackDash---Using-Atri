@@ -1,0 +1,197 @@
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./app/src/styles.css ***!
+  \******************************************************************************************************************************************************************************************/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[2]!./node_modules/@atrilabs/design-system/lib/stylesheets/form-field.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************/
+.form-field_formfield__bf9bT {
+  border: none;
+}
+.form-field_formfield__bf9bT:active {
+  outline: #fcd34d solid 1px;
+}
+.form-field_formfield__bf9bT:focus-visible {
+  outline: #fcd34d solid 1px;
+}
+
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[2]!./node_modules/@atrilabs/design-system/lib/stylesheets/button.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************/
+.button_danger__ZTkhC {
+  background-color: #be185d;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #fdf2f8;
+  padding: 0.5rem 1rem;
+  border: none;
+}
+
+.button_cancel__bspCK {
+  background-color: #6b7280;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #e5e7eb;
+  padding: 0.5rem 1rem;
+  border: none;
+}
+
+/*!*************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./node_modules/@atrilabs/react-component-manifests/src/manifests/styles.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./app/src/page-css/Home.css ***!
+  \*************************************************************************************************************************************************************************************************/
+.p-Home.Div6 {
+display: ;
+}
+.p-Home.Div4 {
+;
+}
+.p-Home.Div8 {
+position: relative;
+top: 100px;
+margin-top: ;
+margin-right: 400px;
+margin-left: 400px;
+}
+.p-Home.Button2 {
+color: #fff;
+background-color: #95806b;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+-webkit-user-select: none;
+   -moz-user-select: none;
+        user-select: none;
+margin-left: 650px;
+margin-top: ;
+top: 40px;
+position: relative;
+right: 200px;
+align-self: center;
+}
+.p-Home.Input2 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum, "tnum";
+padding-top: 4px;
+padding-left: 11px;
+padding-bottom: 4px;
+padding-right: 11px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 2px;
+left: 650px;
+position: relative;
+width: 300px;
+text-align: center;
+}
+.p-Home.Image1 {
+width: 50px;
+height: ;
+margin-top: ;
+margin-left: 650px;
+margin-bottom: 40px;
+position: relative;
+bottom: 8px;
+}
+.p-Home.TextBox3 {
+align-self: center;
+width: 200px;
+height: ;
+margin-top: 145px;
+padding-top: ;
+text-align: center;
+font-size: 30px;
+padding-left: ;
+padding-right: ;
+margin-left: 700px;
+margin-right: 500px;
+position: relative;
+top: 30px;
+word-wrap: normal;
+color: #63412b;
+border-color: #63412b;
+outline-color: #7c604b;
+font-family: Old Standard TT;
+font-weight: italic;
+}
+.p-Home.Radio1 {
+cursor: pointer;
+display: inline-flex;
+-moz-column-gap: 10px;
+     column-gap: 10px;
+align-items: center;
+margin-top: ;
+font-family: Old Standard TT;
+font-weight: italic;
+text-align: center;
+color: ;
+bottom: 0;
+position: relative;
+top: 100px;
+right: 400px;
+}
+.p-Home.Radio2 {
+cursor: pointer;
+display: inline-flex;
+-moz-column-gap: 10px;
+     column-gap: 10px;
+align-items: center;
+margin-top: ;
+font-family: Old Standard TT;
+font-weight: italic;
+text-align: center;
+color: ;
+bottom: 0;
+position: relative;
+top: 125px;
+right: 400px;
+}
+@media screen and (max-width: 991px) {
+	.p-Home.Button2.bpt {
+margin-left: 350px;
+padding-left: 0px;
+padding-right: 0px;
+width: 100px;
+	}
+	.p-Home.Input2.bpt {
+left: 50px;
+	}
+	.p-Home.Image1.bpt {
+margin-left: 50px;
+	}
+	.p-Home.TextBox3.bpt {
+font-family: Old Standard TT;
+font-weight: italic;
+margin-right: ;
+margin-left: 100px;
+	}
+}
